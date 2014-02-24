@@ -1,3 +1,3 @@
-javascript-tokenizer
+javascript-tokenizer [![Build Status](https://travis-ci.org/alanshaw/javascript-tokenizer.png)](https://travis-ci.org/alanshaw/javascript-tokenizer) [![Dependency Status](https://david-dm.org/alanshaw/javascript-tokenizer.png?theme=shields.io)](https://david-dm.org/alanshaw/javascript-tokenizer)
 ===
 This is [js-tokenizer](https://www.npmjs.org/package/js-tokenizer), but using [tokenizer](https://www.npmjs.org/package/tokenizer) to give it stream powers.
